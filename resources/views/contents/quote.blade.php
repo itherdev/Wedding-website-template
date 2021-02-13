@@ -1,0 +1,1 @@
+<div class="tab-pane" id="quote" role="tabpanel" aria-labelledby="quote-tab">.k..</div>

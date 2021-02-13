@@ -1,0 +1,1 @@
+<div class="tab-pane active" id="cover" role="tabpanel" aria-labelledby="cover-tab">..A.</div>
